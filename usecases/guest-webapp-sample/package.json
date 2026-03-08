@@ -35,7 +35,7 @@
   "dependencies": {
     "@aws-cdk/aws-synthetics-alpha": "^2.38.1-alpha.0",
     "aws-cdk-lib": "^2.241.0",
-    "cdk": "^2.1108.0",
+    "cdk": "^2.1109.0",
     "constructs": "^10.4.5"
   }
 }
