@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "aws-cdk-lib": "^2.245.0",
-    "cdk": "^2.1112.0",
+    "cdk": "^2.1114.1",
     "constructs": "^10.6.0",
     "aws-sdk": "^2.1693.0",
     "aws-xray-sdk": "^3.12.0"
